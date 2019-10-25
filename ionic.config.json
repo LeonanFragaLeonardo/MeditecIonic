@@ -1,0 +1,7 @@
+{
+  "name": "meditec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
